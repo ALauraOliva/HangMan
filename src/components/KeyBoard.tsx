@@ -27,7 +27,8 @@ const KEYS = [
   "x",
   "y",
   "z",
-];
+  "''",
+]; //for spanish
 
 type KeyboardProps = {
   disabled?: boolean;
